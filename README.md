@@ -1,2 +1,3 @@
-# spectro-Jarrell-Ash
-Documents pour le spectromètre Jarrell-Ash
+# Spectro Jarrell-Ash
+## Documents pour le spectromètre Jarrell-Ash
+
